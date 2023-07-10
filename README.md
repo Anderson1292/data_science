@@ -1,1 +1,2 @@
-# data_science
+# Data Science
+Knowing the total importance of data science and machine learning for the society we live in and for building a better world, i decided to start my studies in these areas of technology. I believe that long-term practice and determination will make me improve as a human being and as a professional. The creation of this repository was thought of sharing with you the evolution of my experience in this area of technology. Codes will aways be subject to improvement. Hope you like it!
